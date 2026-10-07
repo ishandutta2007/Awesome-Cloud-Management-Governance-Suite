@@ -68,7 +68,7 @@ The cloud management and governance market spans **hyperscaler native tools** (A
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)  
   **An open source, general-purpose policy engine**, Apache-2.0 licensed. **CNCF Graduated Project** with **11,500+ stars**. Enables unified, context-aware policy enforcement across microservices, Kubernetes, CI/CD pipelines, API gateways, and cloud infrastructure as code (Rego query language). 📜 🛡️
@@ -120,7 +120,7 @@ Contributions are welcome! Follow these steps to submit new cloud governance pla
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure, pricing details, valuation, and emoji styling.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
